@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Twenty-Five Child
+Theme URI: https://example.com/twenty-twenty-five-child
+Description: A child theme for Twenty Twenty-Five
+Author: Your Name
+Author URI: https://example.com
+Template: twentytwentyfive
+Version: 1.0
+Text Domain: twentytwentyfive-child
+*/
+
+/* Import the parent theme's stylesheet */
+@import url('../twentytwentyfive/style.css');
+
+/* Add your custom styles below this line */
